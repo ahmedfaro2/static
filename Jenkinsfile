@@ -8,10 +8,7 @@ pipeline {
 					 echo "Multilines shell steps works too"
 					 ls -lah
 					 '''
-	   	   	}
+				}
+			}
 		}
-	}
     }
-
-  }
-}
